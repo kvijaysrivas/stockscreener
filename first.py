@@ -7,6 +7,8 @@ def test_hello():
     print("Python version:", sys.version)
     print("Current working directory:", os.getcwd())
     print("Files in this directory:", os.listdir())
+    print("Hello, World! for python")
+
 
 
 if __name__ == "__main__":
